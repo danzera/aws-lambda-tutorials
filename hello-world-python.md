@@ -1,4 +1,4 @@
-# hello-world-aws-lambda
+# AWS Lambda Hello World
 AWS Lambda Function using Python
 
 ```
