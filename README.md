@@ -1,8 +1,8 @@
-# AWS Lambda Tutorials
+# AWS Lambda
 
 ## Helpful Links
 
-#### Setting up an AWS account
+### Setting up an AWS account
 
 http://docs.aws.amazon.com/lambda/latest/dg/setting-up.html
 
@@ -14,7 +14,7 @@ Finding your AWS Account ID:
 
 http://docs.aws.amazon.com/IAM/latest/UserGuide/console_account-alias.html
 
-#### Setting up the AWS CLI
+### Setting up the AWS CLI
 
 http://docs.aws.amazon.com/cli/latest/userguide/installing.html
 
@@ -26,10 +26,10 @@ https://stackoverflow.com/questions/26574232/aws-cli-path-settings/30464789
 
 ## AWS Lambda Tutorials
 
-#### Hello World
+### Hello World
 
 https://aws.amazon.com/getting-started/tutorials/run-serverless-code/
 
-#### Using AWS Lambda with Amazon S3
+### Using AWS Lambda with Amazon S3
 
 http://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html
